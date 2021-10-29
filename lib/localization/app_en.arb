@@ -1,0 +1,6 @@
+{
+  "appTitle": "tenmanga",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
